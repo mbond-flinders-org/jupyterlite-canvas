@@ -51,3 +51,4 @@ jupyterlab-night
 # For ENGR8800/ENGR1721
 matplotlib
 numpy
+jupyterlab-filesystem-access
