@@ -47,3 +47,7 @@ bqplot
 # Extra extensions
 jupyterlab-tour
 jupyterlab-night
+
+# For ENGR8800/ENGR1721
+matplotlib
+numpy
