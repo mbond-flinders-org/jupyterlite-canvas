@@ -25,9 +25,9 @@ jupyterlab-geojson>=3.4.0,<4
 # TODO: re-enable after https://github.com/jupyterlab-contrib/jupyterlab-tour/issues/82
 # jupyterlab-tour
 # JupyterLab: dark theme
-jupyterlab-night
+# jupyterlab-night
 # JupyterLab: Miami nights theme (optional)
-jupyterlab_miami_nights
+# jupyterlab_miami_nights
 
 # Python: ipywidget library for Jupyter notebooks (optional)
 ipywidgets>=8.1.3,<9
