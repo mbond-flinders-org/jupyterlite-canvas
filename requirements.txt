@@ -5,7 +5,7 @@ notebook~=7.3.0rc0
 
 # Python kernel (optional)
 jupyterlite-pyodide-kernel==0.4.4
-jupyterlite-xeus~=2.1.2
+# jupyterlite-xeus~=2.1.2
 
 # For ENGR8800/ENGR1721
 matplotlib
